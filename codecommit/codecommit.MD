@@ -1,0 +1,9 @@
+- CodeCommit is used to store codes like github.
+- can not clone or push code commit repo from root user.
+- Have too create a IAM user then give that code commit permission.
+- Generate https code commit userid and password from that user.
+- copy https clone address and paste that to vs code.
+- git clone <paste>
+- Give your generated username and password.
+- Now use in same way how you use github.
+- From Vs code you can create another branch, pull request etc.
